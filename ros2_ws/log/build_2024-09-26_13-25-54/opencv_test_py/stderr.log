@@ -1,0 +1,5 @@
+  File "/home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py/test1.py", line 67
+    def color_detection(img)
+                            ^
+SyntaxError: expected ':'
+

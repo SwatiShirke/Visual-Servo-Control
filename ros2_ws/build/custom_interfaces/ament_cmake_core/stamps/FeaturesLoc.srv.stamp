@@ -1,0 +1,3 @@
+string input
+---
+geometry_msgs/Point[] points

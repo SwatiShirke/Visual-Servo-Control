@@ -1,0 +1,33 @@
+[0.576s] Invoking command in '/home/swati/VBM/ros2_ws/src/visual_servo': PYTHONPATH=/home/swati/VBM/ros2_ws/build/visual_servo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/visual_servo build --build-base /home/swati/VBM/ros2_ws/build/visual_servo/build install --record /home/swati/VBM/ros2_ws/build/visual_servo/install.log --single-version-externally-managed install_data
+[0.726s] running egg_info
+[0.726s] writing ../../build/visual_servo/visual_servo.egg-info/PKG-INFO
+[0.726s] writing dependency_links to ../../build/visual_servo/visual_servo.egg-info/dependency_links.txt
+[0.726s] writing entry points to ../../build/visual_servo/visual_servo.egg-info/entry_points.txt
+[0.726s] writing requirements to ../../build/visual_servo/visual_servo.egg-info/requires.txt
+[0.727s] writing top-level names to ../../build/visual_servo/visual_servo.egg-info/top_level.txt
+[0.728s] reading manifest file '../../build/visual_servo/visual_servo.egg-info/SOURCES.txt'
+[0.728s] adding license file 'LICENSE'
+[0.728s] writing manifest file '../../build/visual_servo/visual_servo.egg-info/SOURCES.txt'
+[0.729s] running build
+[0.729s] running build_py
+[0.729s] copying visual_servo/controller.py -> /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo
+[0.729s] copying visual_servo/__init__.py -> /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo
+[0.729s] running install
+[0.729s] running install_lib
+[0.729s] copying /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo/controller.py -> /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo
+[0.729s] copying /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo/__init__.py -> /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo
+[0.730s] byte-compiling /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo/controller.py to controller.cpython-310.pyc
+[0.730s]   File "/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo/controller.py", line 32
+[0.730s]     def client1_response_callback(response)
+[0.730s]                                            ^
+[0.730s] SyntaxError: expected ':'
+[0.730s] 
+[0.730s] byte-compiling /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo/__init__.py to __init__.cpython-310.pyc
+[0.730s] running install_data
+[0.731s] running install_egg_info
+[0.731s] removing '/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo-0.0.0-py3.10.egg-info' (and everything under it)
+[0.731s] Copying ../../build/visual_servo/visual_servo.egg-info to /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo-0.0.0-py3.10.egg-info
+[0.732s] running install_scripts
+[0.745s] Installing servo_controller script to /home/swati/VBM/ros2_ws/install/visual_servo/lib/visual_servo
+[0.745s] writing list of installed files to '/home/swati/VBM/ros2_ws/build/visual_servo/install.log'
+[0.761s] Invoked command in '/home/swati/VBM/ros2_ws/src/visual_servo' returned '0': PYTHONPATH=/home/swati/VBM/ros2_ws/build/visual_servo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/visual_servo build --build-base /home/swati/VBM/ros2_ws/build/visual_servo/build install --record /home/swati/VBM/ros2_ws/build/visual_servo/install.log --single-version-externally-managed install_data

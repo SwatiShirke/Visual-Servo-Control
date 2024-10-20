@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/swati/VBM/ros2_ws/src/custom_interfaces:msg/PointArray.msg",
+    "/home/swati/VBM/ros2_ws/src/custom_interfaces:srv/FeaturesLoc.srv"
+  ]
+}

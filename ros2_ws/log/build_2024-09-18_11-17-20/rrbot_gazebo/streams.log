@@ -1,0 +1,73 @@
+[0.009s] Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/swati/VBM/ros2_ws/src/rrbot_gazebo -DCMAKE_INSTALL_PREFIX=/home/swati/VBM/ros2_ws/install/rrbot_gazebo
+[0.074s] -- The C compiler identification is GNU 11.4.0
+[0.127s] -- The CXX compiler identification is GNU 11.4.0
+[0.134s] -- Detecting C compiler ABI info
+[0.212s] -- Detecting C compiler ABI info - done
+[0.220s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.221s] -- Detecting C compile features
+[0.221s] -- Detecting C compile features - done
+[0.223s] -- Detecting CXX compiler ABI info
+[0.296s] -- Detecting CXX compiler ABI info - done
+[0.301s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.301s] -- Detecting CXX compile features
+[0.302s] -- Detecting CXX compile features - done
+[0.303s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.539s] -- Found Python3: /home/swati/miniconda3/bin/python3 (found version "3.11.5") found components: Interpreter 
+[0.614s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.660s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.664s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.670s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.680s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.692s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.723s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.726s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.810s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.844s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.883s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.897s] -- Looking for pthread.h
+[0.993s] -- Looking for pthread.h - found
+[0.993s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.055s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.056s] -- Found Threads: TRUE  
+[1.100s] -- Found controller_manager_msgs: 2.43.0 (/opt/ros/humble/share/controller_manager_msgs/cmake)
+[1.183s] -- Configuring done
+[1.191s] -- Generating done
+[1.192s] -- Build files have been written to: /home/swati/VBM/ros2_ws/build/rrbot_gazebo
+[1.199s] Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo' returned '0': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/swati/VBM/ros2_ws/src/rrbot_gazebo -DCMAKE_INSTALL_PREFIX=/home/swati/VBM/ros2_ws/install/rrbot_gazebo
+[1.199s] Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/rrbot_gazebo -- -j20 -l20
+[1.258s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/position_publisher.cpp.o[0m
+[1.258s] [ 50%] [32mBuilding CXX object CMakeFiles/switch.dir/src/controller_switch.cpp.o[0m
+[3.425s] [ 75%] [32m[1mLinking CXX executable switch[0m
+[3.549s] [ 75%] Built target switch
+[3.922s] [100%] [32m[1mLinking CXX executable publisher[0m
+[4.069s] [100%] Built target publisher
+[4.081s] Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo' returned '0': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/rrbot_gazebo -- -j20 -l20
+[4.117s] Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/rrbot_gazebo
+[4.122s] -- Install configuration: ""
+[4.122s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/publisher
+[4.123s] -- Set runtime path of "/home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/publisher" to ""
+[4.123s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/switch
+[4.124s] -- Set runtime path of "/home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/switch" to ""
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/launch
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/launch/rrbot_world.launch.py
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/worlds
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/worlds/rrbot.world
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config/gazebo_controllers.yaml
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config/controllers.yaml
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/package_run_dependencies/rrbot_gazebo
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/parent_prefix_path/rrbot_gazebo
+[4.124s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.sh
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.dsv
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.sh
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.dsv
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.bash
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.sh
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.zsh
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.dsv
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/package.dsv
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/packages/rrbot_gazebo
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig.cmake
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig-version.cmake
+[4.125s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/package.xml
+[4.127s] Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo' returned '0': AMENT_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/rrbot_gazebo

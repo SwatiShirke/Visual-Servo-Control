@@ -1,0 +1,6 @@
+msg/PointArray.idl
+msg/PointArray.msg
+srv/FeaturesLoc.idl
+srv/FeaturesLoc.srv
+srv/FeaturesLoc_Request.msg
+srv/FeaturesLoc_Response.msg

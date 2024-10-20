@@ -1,0 +1,5 @@
+  File "/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo/controller.py", line 33
+    response1, response2 = await asyncio.gather(future1, future2)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: 'await' outside async function
+

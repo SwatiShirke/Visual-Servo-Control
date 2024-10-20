@@ -1,0 +1,31 @@
+[0.008s] Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/home/swati/VBM/ros2_ws/install/rrbot_gazebo:/home/swati/VBM/ros2_ws/install/custom_interfaces:/home/swati/VBM/ros2_ws/install/visual_servo:/home/swati/VBM/ros2_ws/install/opencv_test_py:/opt/ros/humble /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/rrbot_gazebo -- -j20 -l20
+[0.053s] [ 50%] Built target switch
+[0.054s] [100%] Built target publisher
+[0.063s] Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/home/swati/VBM/ros2_ws/install/rrbot_gazebo:/home/swati/VBM/ros2_ws/install/custom_interfaces:/home/swati/VBM/ros2_ws/install/visual_servo:/home/swati/VBM/ros2_ws/install/opencv_test_py:/opt/ros/humble /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/rrbot_gazebo -- -j20 -l20
+[0.089s] Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/home/swati/VBM/ros2_ws/install/rrbot_gazebo:/home/swati/VBM/ros2_ws/install/custom_interfaces:/home/swati/VBM/ros2_ws/install/visual_servo:/home/swati/VBM/ros2_ws/install/opencv_test_py:/opt/ros/humble /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/rrbot_gazebo
+[0.095s] -- Install configuration: ""
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/publisher
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/lib/rrbot_gazebo/switch
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/launch
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/launch/rrbot_world.launch.py
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/worlds
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/worlds/rrbot.world
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config/gazebo_controllers.yaml
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/config/controllers.yaml
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/package_run_dependencies/rrbot_gazebo
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/parent_prefix_path/rrbot_gazebo
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.sh
+[0.096s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.dsv
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.sh
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.dsv
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.bash
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.sh
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.zsh
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.dsv
+[0.097s] -- Installing: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/package.dsv
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/ament_index/resource_index/packages/rrbot_gazebo
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig.cmake
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig-version.cmake
+[0.097s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/rrbot_gazebo/share/rrbot_gazebo/package.xml
+[0.099s] Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/swati/VBM/ros2_ws/install/rrbot_description:/home/swati/VBM/ros2_ws/install/rrbot_gazebo:/home/swati/VBM/ros2_ws/install/custom_interfaces:/home/swati/VBM/ros2_ws/install/visual_servo:/home/swati/VBM/ros2_ws/install/opencv_test_py:/opt/ros/humble /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/rrbot_gazebo

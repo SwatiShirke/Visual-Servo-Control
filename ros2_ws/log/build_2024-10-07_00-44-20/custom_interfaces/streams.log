@@ -1,0 +1,23 @@
+[0.014s] Invoking command in '/home/swati/VBM/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swati/VBM/ros2_ws/install/visual_servo:/home/swati/VBM/ros2_ws/install/opencv_test_py:/opt/ros/humble /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/custom_interfaces -- -j20 -l20
+[0.178s] [  2%] Built target custom_interfaces__cpp
+[0.178s] [ 12%] Built target custom_interfaces__rosidl_generator_c
+[0.178s] [ 12%] Built target ament_cmake_python_copy_custom_interfaces
+[0.178s] [ 30%] Built target custom_interfaces__rosidl_typesupport_introspection_cpp
+[0.178s] [ 33%] Built target custom_interfaces__rosidl_typesupport_cpp
+[0.178s] [ 43%] Built target custom_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.178s] [ 53%] Built target custom_interfaces__rosidl_typesupport_c
+[0.178s] [ 64%] Built target custom_interfaces__rosidl_typesupport_introspection_c
+[0.178s] [ 74%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c
+[0.178s] [ 74%] Built target custom_interfaces
+[0.178s] [ 76%] Built target custom_interfaces__py
+[0.179s] [ 84%] Built target custom_interfaces__rosidl_generator_py
+[0.179s] [ 89%] Built target custom_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.179s] [ 94%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.179s] [100%] Built target custom_interfaces__rosidl_typesupport_c__pyext
+[0.216s] running egg_info
+[0.216s] writing custom_interfaces.egg-info/PKG-INFO
+[0.216s] writing dependency_links to custom_interfaces.egg-info/dependency_links.txt
+[0.217s] writing top-level names to custom_interfaces.egg-info/top_level.txt
+[0.218s] reading manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[0.218s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[0.237s] [100%] Built target ament_cmake_python_build_custom_interfaces_egg

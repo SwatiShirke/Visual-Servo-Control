@@ -1,0 +1,44 @@
+[0.000000] (-) TimerEvent: {}
+[0.000159] (rrbot_description) JobQueued: {'identifier': 'rrbot_description', 'dependencies': OrderedDict()}
+[0.000234] (rrbot_gazebo) JobQueued: {'identifier': 'rrbot_gazebo', 'dependencies': OrderedDict([('rrbot_description', '/home/swati/VBM/ros2_ws/install/rrbot_description')])}
+[0.000262] (rrbot_description) JobStarted: {'identifier': 'rrbot_description'}
+[0.003749] (rrbot_description) JobProgress: {'identifier': 'rrbot_description', 'progress': 'cmake'}
+[0.004011] (rrbot_description) Command: {'cmd': ['/usr/bin/cmake', '/home/swati/VBM/ros2_ws/src/rrbot_description', '-DCMAKE_INSTALL_PREFIX=/home/swati/VBM/ros2_ws/install/rrbot_description'], 'cwd': '/home/swati/VBM/ros2_ws/build/rrbot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('USER', 'swati'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/swati/VBM/swati_ws/install/tutorial_interfaces/lib'), ('HOME', '/home/swati'), ('CONDA_SHLVL', '1'), ('OLDPWD', '/home/swati/VBM'), ('DESKTOP_SESSION', 'ubuntu'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('SYSTEMD_EXEC_PID', '2636'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('COLCON_PREFIX_PATH', '/home/swati/ros2_ws/install:/home/swati/VBM/swati_ws/install'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'swati'), ('_', '/usr/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'swati'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('WINDOWPATH', '2'), ('PATH', '/home/swati/miniconda3/bin:/home/swati/miniconda3/condabin:/home/swati/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/swati-Legion-Slim-5-16IRH8:@/tmp/.ICE-unix/2327,unix/swati-Legion-Slim-5-16IRH8:/tmp/.ICE-unix/2327'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/ff0b8ffd_2c9c_4d90_9b6f_85cda437d2d6'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.103'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/swati/VBM/swati_ws/install/HW_1:/home/swati/VBM/swati_ws/install/tutorial_interfaces:/home/swati/VBM/swati_ws/install/service_pkg'), ('CONDA_PYTHON_EXE', '/home/swati/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/swati/VBM/ros2_ws/build/rrbot_description'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/swati/miniconda3/bin/conda'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/swati/VBM/swati_ws/install/HW_1/lib/python3.10/site-packages:/home/swati/VBM/swati_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/swati/miniconda3'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/swati/VBM/swati_ws/install/tutorial_interfaces:/home/swati/VBM/swati_ws/install/service_pkg:/home/swati/VBM/swati_ws/install/HW_1')]), 'shell': False}
+[0.061846] (rrbot_description) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.099664] (-) TimerEvent: {}
+[0.114819] (rrbot_description) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.119792] (rrbot_description) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.192399] (rrbot_description) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.199726] (-) TimerEvent: {}
+[0.200268] (rrbot_description) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.200447] (rrbot_description) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.201060] (rrbot_description) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.204347] (rrbot_description) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.282528] (rrbot_description) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.291981] (rrbot_description) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.292290] (rrbot_description) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.292814] (rrbot_description) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.299872] (rrbot_description) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:4 (find_package):\n'}
+[0.300021] (-) TimerEvent: {}
+[0.300133] (rrbot_description) StderrLine: {'line': b'  By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project\n'}
+[0.300221] (rrbot_description) StderrLine: {'line': b'  has asked CMake to find a package configuration file provided by\n'}
+[0.300299] (rrbot_description) StderrLine: {'line': b'  "ament_cmake", but CMake did not find one.\n'}
+[0.300374] (rrbot_description) StderrLine: {'line': b'\n'}
+[0.300448] (rrbot_description) StderrLine: {'line': b'  Could not find a package configuration file provided by "ament_cmake" with\n'}
+[0.300533] (rrbot_description) StderrLine: {'line': b'  any of the following names:\n'}
+[0.300737] (rrbot_description) StderrLine: {'line': b'\n'}
+[0.300818] (rrbot_description) StderrLine: {'line': b'    ament_cmakeConfig.cmake\n'}
+[0.300891] (rrbot_description) StderrLine: {'line': b'    ament_cmake-config.cmake\n'}
+[0.300962] (rrbot_description) StderrLine: {'line': b'\n'}
+[0.301032] (rrbot_description) StderrLine: {'line': b'  Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set\n'}
+[0.301101] (rrbot_description) StderrLine: {'line': b'  "ament_cmake_DIR" to a directory containing one of the above files.  If\n'}
+[0.301170] (rrbot_description) StderrLine: {'line': b'  "ament_cmake" provides a separate development package or SDK, be sure it\n'}
+[0.301240] (rrbot_description) StderrLine: {'line': b'  has been installed.\n'}
+[0.301309] (rrbot_description) StderrLine: {'line': b'\n'}
+[0.301376] (rrbot_description) StderrLine: {'line': b'\x1b[0m\n'}
+[0.301445] (rrbot_description) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.302127] (rrbot_description) StdoutLine: {'line': b'See also "/home/swati/VBM/ros2_ws/build/rrbot_description/CMakeFiles/CMakeOutput.log".\n'}
+[0.302252] (rrbot_description) CommandEnded: {'returncode': 1}
+[0.317086] (rrbot_description) JobEnded: {'identifier': 'rrbot_description', 'rc': 1}
+[0.327779] (rrbot_gazebo) JobSkipped: {'identifier': 'rrbot_gazebo'}
+[0.327963] (-) EventReactorShutdown: {}

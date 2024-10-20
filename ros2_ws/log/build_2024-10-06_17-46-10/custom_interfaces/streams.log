@@ -1,0 +1,20 @@
+[0.014s] Invoking command in '/home/swati/VBM/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/custom_interfaces -- -j20 -l20
+[0.325s] Invoked command in '/home/swati/VBM/ros2_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/swati/VBM/ros2_ws/build/custom_interfaces -- -j20 -l20
+[0.349s] Invoking command in '/home/swati/VBM/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/custom_interfaces
+[0.356s] -- Install configuration: ""
+[0.356s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/package_run_dependencies/custom_interfaces
+[0.357s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/parent_prefix_path/custom_interfaces
+[0.357s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.sh
+[0.357s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.dsv
+[0.357s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/path.sh
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/path.dsv
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.bash
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.sh
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.zsh
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.dsv
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/package.dsv
+[0.358s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/packages/custom_interfaces
+[0.359s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig.cmake
+[0.359s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig-version.cmake
+[0.359s] -- Up-to-date: /home/swati/VBM/ros2_ws/install/custom_interfaces/share/custom_interfaces/package.xml
+[0.364s] Invoked command in '/home/swati/VBM/ros2_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/swati/VBM/ros2_ws/build/custom_interfaces

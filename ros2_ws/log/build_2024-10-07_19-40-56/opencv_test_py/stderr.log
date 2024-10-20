@@ -1,0 +1,5 @@
+  File "/home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py/servo_control.py", line 45
+    self.lambda = 1
+         ^^^^^^
+SyntaxError: invalid syntax
+

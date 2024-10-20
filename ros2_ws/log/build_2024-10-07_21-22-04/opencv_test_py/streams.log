@@ -1,0 +1,26 @@
+[0.622s] Invoking command in '/home/swati/VBM/ros2_ws/src/opencv_test_py': PYTHONPATH=/home/swati/VBM/ros2_ws/build/opencv_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_test_py build --build-base /home/swati/VBM/ros2_ws/build/opencv_test_py/build install --record /home/swati/VBM/ros2_ws/build/opencv_test_py/install.log --single-version-externally-managed install_data
+[0.771s] running egg_info
+[0.772s] writing ../../build/opencv_test_py/opencv_test_py.egg-info/PKG-INFO
+[0.772s] writing dependency_links to ../../build/opencv_test_py/opencv_test_py.egg-info/dependency_links.txt
+[0.772s] writing entry points to ../../build/opencv_test_py/opencv_test_py.egg-info/entry_points.txt
+[0.772s] writing requirements to ../../build/opencv_test_py/opencv_test_py.egg-info/requires.txt
+[0.772s] writing top-level names to ../../build/opencv_test_py/opencv_test_py.egg-info/top_level.txt
+[0.774s] reading manifest file '../../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[0.774s] writing manifest file '../../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[0.774s] running build
+[0.774s] running build_py
+[0.775s] copying opencv_test_py/servo_control.py -> /home/swati/VBM/ros2_ws/build/opencv_test_py/build/lib/opencv_test_py
+[0.775s] running install
+[0.775s] running install_lib
+[0.776s] copying /home/swati/VBM/ros2_ws/build/opencv_test_py/build/lib/opencv_test_py/servo_control.py -> /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py
+[0.776s] byte-compiling /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py/servo_control.py to servo_control.cpython-310.pyc
+[0.777s] running install_data
+[0.777s] running install_egg_info
+[0.778s] removing '/home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.778s] Copying ../../build/opencv_test_py/opencv_test_py.egg-info to /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info
+[0.778s] running install_scripts
+[0.792s] Installing image_processor script to /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/opencv_test_py
+[0.792s] Installing ref_servo script to /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/opencv_test_py
+[0.792s] Installing servo_control script to /home/swati/VBM/ros2_ws/install/opencv_test_py/lib/opencv_test_py
+[0.792s] writing list of installed files to '/home/swati/VBM/ros2_ws/build/opencv_test_py/install.log'
+[0.808s] Invoked command in '/home/swati/VBM/ros2_ws/src/opencv_test_py' returned '0': PYTHONPATH=/home/swati/VBM/ros2_ws/build/opencv_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swati/VBM/ros2_ws/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_test_py build --build-base /home/swati/VBM/ros2_ws/build/opencv_test_py/build install --record /home/swati/VBM/ros2_ws/build/opencv_test_py/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+image_processor = opencv_test_py.test1:main
+servo_control = opencv_test_py.servo_control:main
+

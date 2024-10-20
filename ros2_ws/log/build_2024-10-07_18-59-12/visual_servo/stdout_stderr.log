@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/visual_servo/visual_servo.egg-info/PKG-INFO
+writing dependency_links to ../../build/visual_servo/visual_servo.egg-info/dependency_links.txt
+writing entry points to ../../build/visual_servo/visual_servo.egg-info/entry_points.txt
+writing requirements to ../../build/visual_servo/visual_servo.egg-info/requires.txt
+writing top-level names to ../../build/visual_servo/visual_servo.egg-info/top_level.txt
+reading manifest file '../../build/visual_servo/visual_servo.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/visual_servo/visual_servo.egg-info/SOURCES.txt'
+running build
+running build_py
+copying visual_servo/controller.py -> /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo
+running install
+running install_lib
+copying /home/swati/VBM/ros2_ws/build/visual_servo/build/lib/visual_servo/controller.py -> /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo
+byte-compiling /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo/controller.py to controller.cpython-310.pyc
+running install_data
+Sorry: IndentationError: expected an indented block after 'if' statement on line 66 (controller.py, line 77)
+running install_egg_info
+removing '/home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/visual_servo/visual_servo.egg-info to /home/swati/VBM/ros2_ws/install/visual_servo/lib/python3.10/site-packages/visual_servo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing servo_controller script to /home/swati/VBM/ros2_ws/install/visual_servo/lib/visual_servo
+writing list of installed files to '/home/swati/VBM/ros2_ws/build/visual_servo/install.log'

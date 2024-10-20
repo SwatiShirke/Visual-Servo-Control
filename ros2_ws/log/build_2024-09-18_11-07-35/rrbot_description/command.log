@@ -1,0 +1,2 @@
+Invoking command in '/home/swati/VBM/ros2_ws/build/rrbot_description': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/swati/VBM/ros2_ws/src/rrbot_description -DCMAKE_INSTALL_PREFIX=/home/swati/VBM/ros2_ws/install/rrbot_description
+Invoked command in '/home/swati/VBM/ros2_ws/build/rrbot_description' returned '1': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/swati/VBM/ros2_ws/src/rrbot_description -DCMAKE_INSTALL_PREFIX=/home/swati/VBM/ros2_ws/install/rrbot_description
